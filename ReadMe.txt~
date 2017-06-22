@@ -1,0 +1,6 @@
+/code 目录下为程序代码。 hopfield.py 为原始能量函数的Hopfield， hopfield2.py为改进的能量函数的Hopfield
+/data 目录下为所使用的TSP数据。 
+
+TSP10_norm.txt 最优距离为: 2.69067
+TSP20_norm.txt 最优距离为: 2.93511
+TSP26_norm.txt 最优距离为: 3.81362
